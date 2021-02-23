@@ -1,6 +1,6 @@
 # personal_finance
 
-A new Flutter project.
+This app tracks your personal finances using flutter
 
 ## Getting Started
 
